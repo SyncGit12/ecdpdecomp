@@ -3,4 +3,4 @@ A decompilation of eCrew Development Program (McDonald's lost training game pres
 
 Currently a work-in-progress.
 
-Download it [here](https://archive.org/download/mcdonalds-japan-ecdp-rom-training-nintendo-ds-cartridge-dump).
+Download the game [here](https://archive.org/download/mcdonalds-japan-ecdp-rom-training-nintendo-ds-cartridge-dump).
